@@ -1,6 +1,6 @@
 
 public class register {
 	public static void main(String[] args) {
-		System.out.println("Welcome github!");
+		System.out.println("Welcome githubuuuu!");
 	}
 }
